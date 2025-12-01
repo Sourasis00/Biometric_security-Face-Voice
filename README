@@ -1,0 +1,1 @@
+Biometric Security — Streamlit app for admin-gated enrolment and authentication using face and voice embeddings. Stores embeddings per-user and enforces dual biometric verification for access.
